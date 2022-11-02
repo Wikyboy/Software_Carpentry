@@ -15,3 +15,6 @@
 *.pyc
 *.egg-info
 .pytest_cache
+
+# Notebook
+*.ipynb
